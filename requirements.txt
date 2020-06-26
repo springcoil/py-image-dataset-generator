@@ -4,3 +4,4 @@ chromedriver==2.24.1
 chromedriver-installer==0.0.6
 selenium==3.9.0
 mock
+pillow>=6.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
